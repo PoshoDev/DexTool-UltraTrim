@@ -1,0 +1,27 @@
+sanity_check();
+
+enum dex
+{
+    idno,
+    dexno,
+    pokemon,
+    form,
+    type1,
+    type2,
+    boxable,
+    bankable,
+    sprite,
+    own
+}
+
+if (file_exists("MissingSprites.log"))
+    file_delete("MissingSprites.log");
+
+array = csv_load("pokedata");
+size = array_height_2d(array);
+
+for (i=1; i<size; i++)
+	make_sprite(i);
+	
+show_debug_message("Done!");
+game_end();
