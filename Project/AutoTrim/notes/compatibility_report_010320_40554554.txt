@@ -1,0 +1,31 @@
+Converting GML script: ${project_dir}\scripts\sprite_crop_init\sprite_crop_init.gml
+Converted description /// @description  sprite_crop_init()
+
+Converting GML script: ${project_dir}\scripts\sprite_crop_all\sprite_crop_all.gml
+Converted description /// @description sprite_crop_all()
+
+Converting GML script: ${project_dir}\scripts\sprite_crop_sprite\sprite_crop_sprite.gml
+Converted description /// @description  sprite_crop_sprite(sprite)/// @param sprite
+
+Converting GML script: ${project_dir}\scripts\sprite_crop_do\sprite_crop_do.gml
+Converted description /// @description  sprite_crop_do(sprite_index, image_index)/// @param sprite_index
+/// @param  image_index
+
+Converting GML script: ${project_dir}\scripts\sprite_get_crop\sprite_get_crop.gml
+Converted description /// @description  sprite_get_crop(sprite, index);/// @param sprite
+/// @param  index
+
+Converting GML script: ${project_dir}\scripts\sprite_get_cropLeft\sprite_get_cropLeft.gml
+Converted description /// @description  sprite_get_cropLeft(rect);/// @param rect
+
+Converting GML script: ${project_dir}\scripts\sprite_get_cropTop\sprite_get_cropTop.gml
+Converted description /// @description  sprite_get_cropTop(rect);/// @param rect
+
+Converting GML script: ${project_dir}\scripts\sprite_get_cropRight\sprite_get_cropRight.gml
+Converted description /// @description  sprite_get_cropRight(rect);/// @param rect
+
+Converting GML script: ${project_dir}\scripts\sprite_get_cropBottom\sprite_get_cropBottom.gml
+Converted description /// @description  sprite_get_cropBottom(rect);/// @param rect
+
+Converting GML script: ${project_dir}\objects\obj_controll\Draw_64.gml
+Converted string - line 4: 'Sprite "cropped" region' -> "Sprite \"cropped\" region"
