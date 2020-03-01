@@ -1331,6 +1331,8 @@
     <script>scripts\make_sprite.gml</script>
     <script>scripts\form_get_string.gml</script>
     <script>scripts\form_get_gender_major.gml</script>
+    <script>scripts\quickedit.gml</script>
+    <script>scripts\main.gml</script>
   </scripts>
   <objects name="objects">
     <object>objects\obj_main</object>

@@ -67,6 +67,7 @@ else // big boi
     sprite_crop_sprite(spriteCropped);
 }
 
+out = quickedit(out);
 sprite_save(spriteCropped, 0, out);
 
 total = floor(i / size * 100);
