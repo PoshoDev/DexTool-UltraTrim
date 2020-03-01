@@ -52,8 +52,8 @@ if (file_exists("MissingSprites.log"))
 array = csv_load("pokedata");
 size = array_height_2d(array);
 
-//for (i=1; i&lt;size; i++)
-    make_sprite(1);
+for (i=1; i&lt;size; i++)
+    make_sprite(i);
 	
 show_debug_message("Done!");
 game_end();
