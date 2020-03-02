@@ -1,6 +1,7 @@
 **/_Ignore
 
 **/_sprites
+**/_extensions
 
 *Hule Crop Image.extension.gmx
 *sprite_crop_init.gml
@@ -13,7 +14,7 @@
 *sprite_get_cropRight.gml
 *sprite_get_cropBottom.gml
 
-*Hule Crop Image.extension.gmx
+*CSV Manager.extension.gmx
 *csv_load.gml
 *trace.gml
 *csv_load_escape.gml
