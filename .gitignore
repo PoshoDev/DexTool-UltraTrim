@@ -1,7 +1,7 @@
 **/_Ignore
 
-**/_sprites
-**/_extensions
+**/sprites
+**/extensions
 
 *Hule Crop Image.extension.gmx
 *sprite_crop_init.gml
