@@ -1,0 +1,23 @@
+**/_Ignore
+
+**/_sprites
+
+*Hule Crop Image.extension.gmx
+*sprite_crop_init.gml
+*sprite_crop_all.gml
+*sprite_crop_sprite.gml
+*sprite_crop_do.gml
+*sprite_get_crop.gml
+*sprite_get_cropLeft.gml
+*sprite_get_cropTop.gml
+*sprite_get_cropRight.gml
+*sprite_get_cropBottom.gml
+
+*Hule Crop Image.extension.gmx
+*csv_load.gml
+*trace.gml
+*csv_load_escape.gml
+*csv_save.gml
+*csv_save_escape.gml
+*array_draw_debug.gml
+
