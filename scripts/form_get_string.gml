@@ -133,6 +133,11 @@ switch(pkmn)
         repeat(3)
             form = string_replace(form, " ", "-");
     break;
+    
+    case "HOOPA":
+        if (form = "CONFINED")
+            form = "";
+    break;
 }
 
 
